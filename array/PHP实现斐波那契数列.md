@@ -46,5 +46,6 @@ arr($n = 35);
 作者：UFO
 
 原文：https://github.com/lidawei-ufo/MYSQL/blob/master/array/PHP%E5%AE%9E%E7%8E%B0%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.md
+
 版权声明：本文为博主原创文章，转载请附上博文链接！
 
