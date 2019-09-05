@@ -15,7 +15,7 @@
   
 - [Linux利用定时任务自动备份数据库 各种折腾](https://github.com/lidawei-ufo/MYSQL/blob/master/Linux%E5%88%A9%E7%94%A8%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1%E8%87%AA%E5%8A%A8%E5%A4%87%E4%BB%BD%E6%95%B0%E6%8D%AE%E5%BA%93.md)
 
--[排序](https://github.com/lidawei-ufo/MYSQL/tree/master/sort)
+- [排序](https://github.com/lidawei-ufo/MYSQL/tree/master/sort)
   - [冒泡优化](https://github.com/lidawei-ufo/MYSQL/blob/master/sort/bubble.md)
   
 **** 
